@@ -1,0 +1,15 @@
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.exe
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.deps.json
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.runtimeconfig.json
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.runtimeconfig.dev.json
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.dll
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\ref\OROperator.dll
+C:\Users\37253\source\repos\MoreLoops\OROperator\bin\Debug\net5.0\OROperator.pdb
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.AssemblyInfoInputs.cache
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.AssemblyInfo.cs
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.csproj.CoreCompileInputs.cache
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.dll
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\ref\OROperator.dll
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.pdb
+C:\Users\37253\source\repos\MoreLoops\OROperator\obj\Debug\net5.0\OROperator.genruntimeconfig.cache
